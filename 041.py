@@ -1,7 +1,6 @@
 name = input('имя? ')
 num = int(input('число? '))
 if num < 10:
-    for i in range(num):
-        print(name)
+    print(f'{name}\n'*num)
 else:
     print('too high')

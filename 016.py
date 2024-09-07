@@ -1,6 +1,6 @@
-a = input('Сегодня идёт дождь?')
+a = input('Сегодня идёт дождь? ')
 if a.lower() == 'yes':
-    b = input('а ветренно?')
+    b = input('а ветренно? ')
     if b.lower() == 'yes':
         print('it is to windy to take umbrella')
     else:

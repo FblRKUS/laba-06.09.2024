@@ -1,8 +1,8 @@
 a = int(input('Введите число '))
 while a < 10 or a > 20:
     if a < 10:
-        print('too low')
+        print('Too low')
     else:
-        print('too high')
+        print('Too high')
     a = int(input('Введите число '))
-print('thank you')
+print('Thank you')

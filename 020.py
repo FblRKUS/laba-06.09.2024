@@ -1,1 +1,1 @@
-print(len(input('Введи своё имя ')))
+print(len(input('Введи своё имя: ')))

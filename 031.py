@@ -1,4 +1,4 @@
 from math import pi
 
-r = int(input('радиус круга: '))
+r = int(input('Введите радиус круга: '))
 print(pi * r ** 2)

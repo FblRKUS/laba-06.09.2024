@@ -1,3 +1,3 @@
-name = input("Имя? \n")
-age = int(input('Возраст? \n'))
+name = input("Введите своё имя: ")
+age = int(input('Введите свой возраст:'))
 print(f'{name}, next birthday you will be {age + 1}.')

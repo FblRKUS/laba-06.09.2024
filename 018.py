@@ -1,7 +1,7 @@
-a = int(input('введи число '))
+a = int(input('Введите число: '))
 if a < 10:
-    print('too low')
+    print('Too low')
 elif a > 20:
-    print('too high')
+    print('Too high')
 else:
-    print('correct')
+    print('Correct')

@@ -1,9 +1,9 @@
-a = int(input('введи число '))
+a = int(input('Введите число: '))
 if a == 1:
-    print('thank you')
+    print('Thank you')
 elif a == 2:
-    print('well done')
+    print('Well done')
 elif a == 3:
-    print('correct')
+    print('Correct')
 else:
-    print('message error')
+    print('Message error')

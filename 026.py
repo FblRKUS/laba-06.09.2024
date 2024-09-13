@@ -1,4 +1,4 @@
-s = input('слово: ')
+s = input('Введите любое слово: ')
 GLAS = 'AEYUOI'
 if s[0].upper() in GLAS:
     print(f'{s}way')

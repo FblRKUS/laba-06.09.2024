@@ -4,4 +4,4 @@ if a < 10:
         b = input('Как их зовут? ')
         print(f'{b} has been invited')
 else:
-    print('too many people')
+    print('Too many people')
